@@ -1,2 +1,2 @@
 # Sales_scraper
-Web scraping techniques to find articles related to Tourism in UK
+Web scraping techniques including selenium and beautifulsoup to find articles related from a website
